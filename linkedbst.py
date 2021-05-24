@@ -325,7 +325,7 @@ class LinkedBST(AbstractCollection):
                 diction.append(word.strip("\n"))
 
         number_random = 10000
-        total_amount = 1000
+        total_amount = 10000
         randomed_words = []
 
         diction = diction[:total_amount]
